@@ -1,0 +1,705 @@
+{
+  "format": "javascript-image-pre1",
+  "arch": "os.linux.armv7l",
+  "load": [
+    {
+      "sourceMap": "packages/underscore.js.map",
+      "path": "packages/underscore.js"
+    },
+    {
+      "node_modules": "npm/meteor/node_modules",
+      "sourceMap": "packages/meteor.js.map",
+      "path": "packages/meteor.js"
+    },
+    {
+      "sourceMap": "packages/base64.js.map",
+      "path": "packages/base64.js"
+    },
+    {
+      "sourceMap": "packages/ejson.js.map",
+      "path": "packages/ejson.js"
+    },
+    {
+      "node_modules": "npm/logging/node_modules",
+      "sourceMap": "packages/logging.js.map",
+      "path": "packages/logging.js"
+    },
+    {
+      "sourceMap": "packages/routepolicy.js.map",
+      "path": "packages/routepolicy.js"
+    },
+    {
+      "sourceMap": "packages/tracker.js.map",
+      "path": "packages/tracker.js"
+    },
+    {
+      "sourceMap": "packages/deps.js.map",
+      "path": "packages/deps.js"
+    },
+    {
+      "sourceMap": "packages/htmljs.js.map",
+      "path": "packages/htmljs.js"
+    },
+    {
+      "sourceMap": "packages/html-tools.js.map",
+      "path": "packages/html-tools.js"
+    },
+    {
+      "sourceMap": "packages/blaze-tools.js.map",
+      "path": "packages/blaze-tools.js"
+    },
+    {
+      "sourceMap": "packages/spacebars-compiler.js.map",
+      "path": "packages/spacebars-compiler.js"
+    },
+    {
+      "sourceMap": "packages/jquery.js.map",
+      "path": "packages/jquery.js"
+    },
+    {
+      "sourceMap": "packages/check.js.map",
+      "path": "packages/check.js"
+    },
+    {
+      "sourceMap": "packages/id-map.js.map",
+      "path": "packages/id-map.js"
+    },
+    {
+      "node_modules": "npm/babel-compiler/node_modules",
+      "sourceMap": "packages/babel-compiler.js.map",
+      "path": "packages/babel-compiler.js"
+    },
+    {
+      "sourceMap": "packages/ecmascript.js.map",
+      "path": "packages/ecmascript.js"
+    },
+    {
+      "sourceMap": "packages/babel-runtime.js.map",
+      "path": "packages/babel-runtime.js"
+    },
+    {
+      "node_modules": "npm/ecmascript-runtime/node_modules",
+      "sourceMap": "packages/ecmascript-runtime.js.map",
+      "path": "packages/ecmascript-runtime.js"
+    },
+    {
+      "node_modules": "npm/promise/node_modules",
+      "sourceMap": "packages/promise.js.map",
+      "path": "packages/promise.js"
+    },
+    {
+      "sourceMap": "packages/random.js.map",
+      "path": "packages/random.js"
+    },
+    {
+      "sourceMap": "packages/mongo-id.js.map",
+      "path": "packages/mongo-id.js"
+    },
+    {
+      "sourceMap": "packages/diff-sequence.js.map",
+      "path": "packages/diff-sequence.js"
+    },
+    {
+      "sourceMap": "packages/observe-sequence.js.map",
+      "path": "packages/observe-sequence.js"
+    },
+    {
+      "sourceMap": "packages/reactive-var.js.map",
+      "path": "packages/reactive-var.js"
+    },
+    {
+      "sourceMap": "packages/blaze.js.map",
+      "path": "packages/blaze.js"
+    },
+    {
+      "sourceMap": "packages/spacebars.js.map",
+      "path": "packages/spacebars.js"
+    },
+    {
+      "sourceMap": "packages/ui.js.map",
+      "path": "packages/ui.js"
+    },
+    {
+      "sourceMap": "packages/boilerplate-generator.js.map",
+      "path": "packages/boilerplate-generator.js",
+      "assets": {
+        "boilerplate_web.browser.html": "assets/packages/boilerplate-generator/boilerplate_web.browser.html",
+        "boilerplate_web.cordova.html": "assets/packages/boilerplate-generator/boilerplate_web.cordova.html"
+      }
+    },
+    {
+      "sourceMap": "packages/webapp-hashing.js.map",
+      "path": "packages/webapp-hashing.js"
+    },
+    {
+      "node_modules": "npm/webapp/node_modules",
+      "sourceMap": "packages/webapp.js.map",
+      "path": "packages/webapp.js"
+    },
+    {
+      "sourceMap": "packages/templating.js.map",
+      "path": "packages/templating.js"
+    },
+    {
+      "sourceMap": "packages/iron_core.js.map",
+      "path": "packages/iron_core.js"
+    },
+    {
+      "sourceMap": "packages/iron_dynamic-template.js.map",
+      "path": "packages/iron_dynamic-template.js"
+    },
+    {
+      "sourceMap": "packages/iron_layout.js.map",
+      "path": "packages/iron_layout.js"
+    },
+    {
+      "sourceMap": "packages/iron_url.js.map",
+      "path": "packages/iron_url.js"
+    },
+    {
+      "sourceMap": "packages/iron_middleware-stack.js.map",
+      "path": "packages/iron_middleware-stack.js"
+    },
+    {
+      "sourceMap": "packages/iron_location.js.map",
+      "path": "packages/iron_location.js"
+    },
+    {
+      "node_modules": "npm/npm-mongo/node_modules",
+      "sourceMap": "packages/npm-mongo.js.map",
+      "path": "packages/npm-mongo.js"
+    },
+    {
+      "sourceMap": "packages/ordered-dict.js.map",
+      "path": "packages/ordered-dict.js"
+    },
+    {
+      "sourceMap": "packages/geojson-utils.js.map",
+      "path": "packages/geojson-utils.js"
+    },
+    {
+      "sourceMap": "packages/minimongo.js.map",
+      "path": "packages/minimongo.js"
+    },
+    {
+      "sourceMap": "packages/retry.js.map",
+      "path": "packages/retry.js"
+    },
+    {
+      "sourceMap": "packages/ddp-common.js.map",
+      "path": "packages/ddp-common.js"
+    },
+    {
+      "node_modules": "npm/ddp-client/node_modules",
+      "sourceMap": "packages/ddp-client.js.map",
+      "path": "packages/ddp-client.js"
+    },
+    {
+      "sourceMap": "packages/rate-limit.js.map",
+      "path": "packages/rate-limit.js"
+    },
+    {
+      "sourceMap": "packages/ddp-rate-limiter.js.map",
+      "path": "packages/ddp-rate-limiter.js"
+    },
+    {
+      "sourceMap": "packages/callback-hook.js.map",
+      "path": "packages/callback-hook.js"
+    },
+    {
+      "node_modules": "npm/ddp-server/node_modules",
+      "sourceMap": "packages/ddp-server.js.map",
+      "path": "packages/ddp-server.js"
+    },
+    {
+      "sourceMap": "packages/ddp.js.map",
+      "path": "packages/ddp.js"
+    },
+    {
+      "sourceMap": "packages/binary-heap.js.map",
+      "path": "packages/binary-heap.js"
+    },
+    {
+      "node_modules": "npm/mongo/node_modules",
+      "sourceMap": "packages/mongo.js.map",
+      "path": "packages/mongo.js"
+    },
+    {
+      "sourceMap": "packages/reactive-dict.js.map",
+      "path": "packages/reactive-dict.js"
+    },
+    {
+      "sourceMap": "packages/iron_controller.js.map",
+      "path": "packages/iron_controller.js"
+    },
+    {
+      "node_modules": "npm/iron_router/node_modules",
+      "sourceMap": "packages/iron_router.js.map",
+      "path": "packages/iron_router.js"
+    },
+    {
+      "node_modules": "npm/sacha_spin/node_modules",
+      "sourceMap": "packages/sacha_spin.js.map",
+      "path": "packages/sacha_spin.js"
+    },
+    {
+      "node_modules": "npm/npm-bcrypt/node_modules",
+      "sourceMap": "packages/npm-bcrypt.js.map",
+      "path": "packages/npm-bcrypt.js"
+    },
+    {
+      "sourceMap": "packages/accounts-base.js.map",
+      "path": "packages/accounts-base.js"
+    },
+    {
+      "sourceMap": "packages/sha.js.map",
+      "path": "packages/sha.js"
+    },
+    {
+      "sourceMap": "packages/srp.js.map",
+      "path": "packages/srp.js"
+    },
+    {
+      "node_modules": "npm/email/node_modules",
+      "sourceMap": "packages/email.js.map",
+      "path": "packages/email.js"
+    },
+    {
+      "sourceMap": "packages/accounts-password.js.map",
+      "path": "packages/accounts-password.js"
+    },
+    {
+      "node_modules": "npm/cfs_graphicsmagick/node_modules",
+      "sourceMap": "packages/cfs_graphicsmagick.js.map",
+      "path": "packages/cfs_graphicsmagick.js"
+    },
+    {
+      "sourceMap": "packages/copleykj_livestamp.js.map",
+      "path": "packages/copleykj_livestamp.js"
+    },
+    {
+      "sourceMap": "packages/momentjs_moment.js.map",
+      "path": "packages/momentjs_moment.js"
+    },
+    {
+      "sourceMap": "packages/rzymek_moment-locale-fr.js.map",
+      "path": "packages/rzymek_moment-locale-fr.js"
+    },
+    {
+      "sourceMap": "packages/gabrielengel_konecty-magnific-popup.js.map",
+      "path": "packages/gabrielengel_konecty-magnific-popup.js"
+    },
+    {
+      "sourceMap": "packages/mrt_jquery-imagesloaded.js.map",
+      "path": "packages/mrt_jquery-imagesloaded.js"
+    },
+    {
+      "sourceMap": "packages/less.js.map",
+      "path": "packages/less.js"
+    },
+    {
+      "sourceMap": "packages/accounts-ui-unstyled.js.map",
+      "path": "packages/accounts-ui-unstyled.js"
+    },
+    {
+      "sourceMap": "packages/alanning_roles.js.map",
+      "path": "packages/alanning_roles.js"
+    },
+    {
+      "sourceMap": "packages/sergeyt_typeahead.js.map",
+      "path": "packages/sergeyt_typeahead.js"
+    },
+    {
+      "sourceMap": "packages/copleykj_jquery-autosize.js.map",
+      "path": "packages/copleykj_jquery-autosize.js"
+    },
+    {
+      "node_modules": "npm/froatsnook_request/node_modules",
+      "sourceMap": "packages/froatsnook_request.js.map",
+      "path": "packages/froatsnook_request.js"
+    },
+    {
+      "sourceMap": "packages/matb33_collection-hooks.js.map",
+      "path": "packages/matb33_collection-hooks.js"
+    },
+    {
+      "sourceMap": "packages/ryanswapp_fabricjs.js.map",
+      "path": "packages/ryanswapp_fabricjs.js"
+    },
+    {
+      "sourceMap": "packages/coffeescript.js.map",
+      "path": "packages/coffeescript.js"
+    },
+    {
+      "sourceMap": "packages/blaze-html-templates.js.map",
+      "path": "packages/blaze-html-templates.js"
+    },
+    {
+      "sourceMap": "packages/softwarerero_accounts-t9n.js.map",
+      "path": "packages/softwarerero_accounts-t9n.js"
+    },
+    {
+      "sourceMap": "packages/standard-minifiers.js.map",
+      "path": "packages/standard-minifiers.js"
+    },
+    {
+      "sourceMap": "packages/meteor-base.js.map",
+      "path": "packages/meteor-base.js"
+    },
+    {
+      "sourceMap": "packages/mobile-experience.js.map",
+      "path": "packages/mobile-experience.js"
+    },
+    {
+      "sourceMap": "packages/session.js.map",
+      "path": "packages/session.js"
+    },
+    {
+      "sourceMap": "packages/reload.js.map",
+      "path": "packages/reload.js"
+    },
+    {
+      "sourceMap": "packages/themeteorchef_jquery-validation.js.map",
+      "path": "packages/themeteorchef_jquery-validation.js"
+    },
+    {
+      "sourceMap": "packages/chuangbo_cookie.js.map",
+      "path": "packages/chuangbo_cookie.js"
+    },
+    {
+      "sourceMap": "packages/meteorhacks_inject-data.js.map",
+      "path": "packages/meteorhacks_inject-data.js",
+      "assets": {
+        "lib/inject.html": "assets/packages/meteorhacks_inject-data/lib/inject.html"
+      }
+    },
+    {
+      "node_modules": "npm/meteorhacks_picker/node_modules",
+      "sourceMap": "packages/meteorhacks_picker.js.map",
+      "path": "packages/meteorhacks_picker.js"
+    },
+    {
+      "sourceMap": "packages/livedata.js.map",
+      "path": "packages/livedata.js"
+    },
+    {
+      "node_modules": "npm/meteorhacks_fast-render/node_modules",
+      "sourceMap": "packages/meteorhacks_fast-render.js.map",
+      "path": "packages/meteorhacks_fast-render.js"
+    },
+    {
+      "sourceMap": "packages/smallhacks_bootstrap-tagsinput-custom.js.map",
+      "path": "packages/smallhacks_bootstrap-tagsinput-custom.js"
+    },
+    {
+      "sourceMap": "packages/amplify.js.map",
+      "path": "packages/amplify.js"
+    },
+    {
+      "sourceMap": "packages/u2622_persistent-session.js.map",
+      "path": "packages/u2622_persistent-session.js"
+    },
+    {
+      "sourceMap": "packages/mizzao_timesync.js.map",
+      "path": "packages/mizzao_timesync.js"
+    },
+    {
+      "sourceMap": "packages/mizzao_user-status.js.map",
+      "path": "packages/mizzao_user-status.js"
+    },
+    {
+      "sourceMap": "packages/luisalmeida_unveil.js.map",
+      "path": "packages/luisalmeida_unveil.js"
+    },
+    {
+      "sourceMap": "packages/url.js.map",
+      "path": "packages/url.js"
+    },
+    {
+      "node_modules": "npm/http/node_modules",
+      "sourceMap": "packages/http.js.map",
+      "path": "packages/http.js"
+    },
+    {
+      "node_modules": "npm/meteorhacks_inject-initial/node_modules",
+      "sourceMap": "packages/meteorhacks_inject-initial.js.map",
+      "path": "packages/meteorhacks_inject-initial.js"
+    },
+    {
+      "sourceMap": "packages/raix_eventemitter.js.map",
+      "path": "packages/raix_eventemitter.js"
+    },
+    {
+      "sourceMap": "packages/meteorspark_util.js.map",
+      "path": "packages/meteorspark_util.js"
+    },
+    {
+      "sourceMap": "packages/cfs_http-methods.js.map",
+      "path": "packages/cfs_http-methods.js"
+    },
+    {
+      "sourceMap": "packages/tap_i18n.js.map",
+      "path": "packages/tap_i18n.js"
+    },
+    {
+      "sourceMap": "packages/smallhacks_jquery-contextmenu.js.map",
+      "path": "packages/smallhacks_jquery-contextmenu.js"
+    },
+    {
+      "sourceMap": "packages/fds_latinize.js.map",
+      "path": "packages/fds_latinize.js"
+    },
+    {
+      "sourceMap": "packages/konecty_autolinker.js.map",
+      "path": "packages/konecty_autolinker.js"
+    },
+    {
+      "sourceMap": "packages/alexwine_bootstrap-4.js.map",
+      "path": "packages/alexwine_bootstrap-4.js"
+    },
+    {
+      "sourceMap": "packages/teamon_tinymce.js.map",
+      "path": "packages/teamon_tinymce.js"
+    },
+    {
+      "sourceMap": "packages/tomi_upload-jquery.js.map",
+      "path": "packages/tomi_upload-jquery.js"
+    },
+    {
+      "node_modules": "npm/tomi_upload-server/node_modules",
+      "sourceMap": "packages/tomi_upload-server.js.map",
+      "path": "packages/tomi_upload-server.js"
+    },
+    {
+      "sourceMap": "packages/chrismbeckett_toastr.js.map",
+      "path": "packages/chrismbeckett_toastr.js"
+    },
+    {
+      "sourceMap": "packages/hot-code-push.js.map",
+      "path": "packages/hot-code-push.js"
+    },
+    {
+      "sourceMap": "packages/launch-screen.js.map",
+      "path": "packages/launch-screen.js"
+    },
+    {
+      "sourceMap": "packages/autoupdate.js.map",
+      "path": "packages/autoupdate.js"
+    },
+    {
+      "path": "packages/global-imports.js"
+    },
+    {
+      "sourceMap": "app/lib/collections/authors.js.map",
+      "path": "app/lib/collections/authors.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/collections/categories.js.map",
+      "path": "app/lib/collections/categories.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/collections/codes.js.map",
+      "path": "app/lib/collections/codes.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/collections/files.js.map",
+      "path": "app/lib/collections/files.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/collections/posts.js.map",
+      "path": "app/lib/collections/posts.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/collections/spaces.js.map",
+      "path": "app/lib/collections/spaces.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/LessonsFrameController.js.map",
+      "path": "app/lib/controllers/LessonsFrameController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/adminController.js.map",
+      "path": "app/lib/controllers/adminController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/indexStudentController.js.map",
+      "path": "app/lib/controllers/indexStudentController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/indexTeacherController.js.map",
+      "path": "app/lib/controllers/indexTeacherController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/resetPasswordController.js.map",
+      "path": "app/lib/controllers/resetPasswordController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/settingsController.js.map",
+      "path": "app/lib/controllers/settingsController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/spaceController.js.map",
+      "path": "app/lib/controllers/spaceController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/spaceFirstConnectionController.js.map",
+      "path": "app/lib/controllers/spaceFirstConnectionController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/spaceUsersController.js.map",
+      "path": "app/lib/controllers/spaceUsersController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/controllers/userSettingsController.js.map",
+      "path": "app/lib/controllers/userSettingsController.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/i18n/en.i18n.json.map",
+      "path": "app/lib/i18n/en.i18n.json",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/i18n/fr-FR.i18n.json.map",
+      "path": "app/lib/i18n/fr-FR.i18n.json",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/permissions.js.map",
+      "path": "app/lib/permissions.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/lib/router.js.map",
+      "path": "app/lib/router.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/server/db_updates.js.map",
+      "path": "app/server/db_updates.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/server/fixtures.js.map",
+      "path": "app/server/fixtures.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/server/methods.js.map",
+      "path": "app/server/methods.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/server/publications.js.map",
+      "path": "app/server/publications.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/server/uploads.js.map",
+      "path": "app/server/uploads.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "app/appLoader.js.map",
+      "path": "app/appLoader.js",
+      "assets": {
+        "appLoader.html": "assets/app/appLoader.html",
+        "version.json": "assets/app/version.json"
+      }
+    },
+    {
+      "sourceMap": "packages/service-configuration.js.map",
+      "path": "packages/service-configuration.js"
+    }
+  ]
+}
